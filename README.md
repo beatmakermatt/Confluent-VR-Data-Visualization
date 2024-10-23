@@ -2,7 +2,7 @@
 
 AI-Powered Real-Time Data Visualization in Vision Pro
 
-#Overview
+Overview
 This project is an AI-powered VR data visualization app that leverages Confluent Cloud and Kafka to stream real-time data (e.g., stock market data) into an immersive VR environment using Apple Vision Pro. Users can interact with real-time data visualizations, ask an AI assistant for insights, and collaborate with others in a shared virtual space.
 
 Use Case
